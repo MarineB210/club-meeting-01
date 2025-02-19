@@ -3,7 +3,7 @@
 This repositorey was created to store the documents from the first meeting of the UMONS Red Dragons Hackers Club.
 In it, you will find:
 - An example of notes structure and content, based on the presented box (Love from HTB)
-- An example of report
+- An example of pentest report
 - The slides presented during the meeting
 
 Remember that not everything in this repository is perfect. Everyone has their own way of taking notes, writing reports, and so on. The purpose of the documents in this repository is to provide beginners with "good" examples to help them start and build their own way of working. Also remember that I'm still a student who is still building her own skills and methodology :p
