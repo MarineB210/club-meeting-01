@@ -6,7 +6,7 @@ In it, you will find:
 - An example of good report
 - The slides presented during the meeting
 
-Remember that not everything in this repository is perfect. Everyone has their own way of taking notes, writing reports, and so on. The purpose of the documents in this repository is to provide beginners with "good" examples to help them start and build their own way of working.
+Remember that not everything in this repository is perfect. Everyone has their own way of taking notes, writing reports, and so on. The purpose of the documents in this repository is to provide beginners with "good" examples to help them start and build their own way of working. Also remember that I'm still a student whose still building her own skills and methodology :p
 
 ## Useful ressources
 
